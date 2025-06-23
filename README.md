@@ -134,7 +134,9 @@ After tracking players independently in each video, a matching algorithm compare
 ---
 
 ## 5. Setup Instructions (Local Machine)
-
+```bash
+model weights : https://drive.google.com/file/d/1-5fOSHOSB9UXyP_enOoZNAMScrePVcMD/view
+```
 ### Step 1: Clone the Repository
 
 ```bash
